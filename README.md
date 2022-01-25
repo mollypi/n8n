@@ -1,5 +1,7 @@
 # n8n - Workflow Automation Tool
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/670d9d43-6aa9-4c35-ba7f-ee920c1437e4.svg?orgId=561911742905)](https://app.soluble.cloud/repos/details/github.com/mollypi/n8n?orgId=561911742905)  
+
 ![n8n.io - Workflow Automation](https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png)
 
 n8n is an extendable workflow automation tool. With a [fair-code](http://faircode.io) distribution model, n8n will always have visible source code, be available to self-host, and allow you to add your own custom functions, logic and apps. n8n's node-based approach makes it highly versatile, enabling you to connect anything to everything.
